@@ -12,3 +12,15 @@
 ![detail](detaill.png)
 ### Tabel Angsuran
 ![tabel](tabel.png)
+
+# Test 2 & 3
+> python 2.py
+
+Done!
+
+> python 3.py
+
+Done!
+
+# Test 4
+## In Progress ;>
