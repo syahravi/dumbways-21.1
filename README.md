@@ -7,11 +7,11 @@
 
 ## Documentations
 ### Input User
-![input user](suksess.png)
+![input user](img/suksess.png)
 ### Detail Pemilihan
-![detail](detaill.png)
+![detail](img/detaill.png)
 ### Tabel Angsuran
-![tabel](tabel.png)
+![tabel](img/tabel.png)
 
 # Test 2 & 3
 > python 2.py
