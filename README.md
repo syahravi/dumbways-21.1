@@ -21,6 +21,3 @@ Done!
 > python 3.py
 
 Done!
-
-# Test 4
-## In Progress ;>
